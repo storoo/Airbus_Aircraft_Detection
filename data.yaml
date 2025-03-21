@@ -1,0 +1,6 @@
+path: "C:/Users/storo/OneDrive - Universidad Nacional de Colombia/Documentos/2025/Machine Learning/Projects/Airbus_Aircraft_Detection/data"
+train: "train/images" 
+val: "validation/images"
+nc: 2
+#Classes
+names: ['Airplane', 'Truncated_airplane']
